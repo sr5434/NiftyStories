@@ -1,2 +1,2 @@
-# NiftyStories
-Using NFTs to gamify writing
+# BlockParty
+A blockchain social platform
